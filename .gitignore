@@ -1,49 +1,137 @@
-# History files
-.Rhistory
+# ========================= 
+# Data
+# Keep folder structure and selected small reference files only
+# =========================
+data/*
+!data/**/
+!data/**/README.txt
+!data/Step5/glist-hg19.txt
+
+# =========================
+# Tools
+# Keep folder structure and README only
+# =========================
+tools/*
+!tools/**/
+!tools/**/README.txt
+
+# =========================
+# Results
+# Keep only selected final outputs
+# =========================
+results/*
+!results/**/
+
+# Step1
+results/Step1/*
+!results/Step1/Step1_GWAS_QC_genomewide_significant.tsv
+!results/Step1/Step1_GWAS_QC_summary.tsv
+
+# Step2
+results/Step2/*
+!results/Step2/Step2_Manhattan_plot.pdf
+!results/Step2/Step2_LD_proxy_map_r2ge0.8.tsv
+!results/Step2/Step2_leadSNP_annotation.tsv
+!results/Step2/Step2_lead_proxy_panel.tsv
+
+# Step3
+results/Step3/*
+!results/Step3/matches/
+!results/Step3/panels/
+
+results/Step3/matches/*
+!results/Step3/matches/Step3_GTExBrain_hits_distribution.pdf
+!results/Step3/matches/Step3_GTExBrain_hits_summary_byGene.tsv
+!results/Step3/matches/Step3_GTExBrain_hits_summary_byTissue.tsv
+
+results/Step3/panels/*
+!results/Step3/panels/tables/
+
+results/Step3/panels/tables/*
+!results/Step3/panels/tables/Step3_GTExBrain_Gene_evidence_panel.tsv
+!results/Step3/panels/tables/Step3_GTExBrain_SNP_evidence_panel.tsv
+
+# Step4
+results/Step4/*
+!results/Step4/Step4_GTExBrain_coloc_all.tsv
+!results/Step4/Step4_GTExBrain_coloc_gene_best.tsv
+!results/Step4/Step4_GTExBrain_coloc_heatmap_PPH4_ge_0.8.pdf
+
+# Step5
+results/Step5/*
+!results/Step5/03_merge/
+!results/Step5/04_summary/
+!results/Step5/05_plots/
+
+results/Step5/03_merge/*
+!results/Step5/03_merge/Step5_SMR_BrainMeta_allchr.tsv
+!results/Step5/03_merge/Step5_SMR_merge_summary.tsv
+
+results/Step5/04_summary/*
+!results/Step5/04_summary/Step5_SMR_BrainMeta_passed.tsv
+!results/Step5/04_summary/Step5_SMR_BrainMeta_passed_genes.txt
+!results/Step5/04_summary/Step5_SMR_BrainMeta_significant.tsv
+!results/Step5/04_summary/Step5_SMR_BrainMeta_summary_stats.tsv
+
+results/Step5/05_plots/*
+!results/Step5/05_plots/publication_plots/
+!results/Step5/05_plots/publication_plots/**
+
+# Step6
+results/Step6/*
+!results/Step6/figures/
+!results/Step6/summary/
+!results/Step6/tables/
+
+results/Step6/figures/*
+!results/Step6/figures/Step6_combined_integrated_evidence.pdf
+!results/Step6/figures/Step6_gene_evidence_levels.pdf
+!results/Step6/figures/Step6_gene_evidence_matrix.pdf
+!results/Step6/figures/Step6_snp_evidence_distribution.pdf
+
+results/Step6/summary/*
+!results/Step6/summary/Step6_summary_gene_levels.tsv
+!results/Step6/summary/Step6_summary_snp_levels.tsv
+
+results/Step6/tables/*
+!results/Step6/tables/Step6_final_candidate_genes.tsv
+!results/Step6/tables/Step6_final_candidate_snps.tsv
+!results/Step6/tables/Step6_highconfidence_genes_summary.tsv
+!results/Step6/tables/Step6_multi_evidence_snps.tsv
+
+# =========================
+# Generic exclusions
+# =========================
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.bak
+*.tmp
+*.log
+*.nosex
+*.clumped
+*.list
+~$*.xlsx
+.DS_Store
+Thumbs.db
+*.Rhistory
+*.RData
+*.Rproj.user/
 .Rapp.history
-
-# Session Data files
-.RData
 .RDataTmp
-
-# User-specific files
 .Ruserdata
-
-# Example code in package build process
 *-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
 /*.Rcheck/
-
-# RStudio files
-.Rproj.user/
-
-# produced vignettes
 vignettes/*.html
 vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
-
-# knitr and R markdown default cache directories
 *_cache/
 /cache/
-
-# Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-
-# R Environment Variables
 .Renviron
-
-# pkgdown site
 docs/
-
-# translation temp files
 po/*~
-
-# RStudio Connect folder
 rsconnect/

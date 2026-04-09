@@ -1,0 +1,9 @@
+metric	value
+n_raw	6774224
+n_after_qc	6774217
+n_genomewide_significant	1428
+min_p	9.033e-15
+max_p	1
+mean_eaf	0.726958271310175
+chr_min	1
+chr_max	22

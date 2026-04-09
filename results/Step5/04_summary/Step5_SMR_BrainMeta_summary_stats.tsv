@@ -1,0 +1,5 @@
+metric	value
+n_total_tests	33
+n_smr_significant	11
+n_smr_heidi_passed	8
+n_unique_genes_passed	8

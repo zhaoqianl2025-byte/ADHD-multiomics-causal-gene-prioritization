@@ -1,0 +1,50 @@
+Gene	GTEx_evidence_class	top_p	evidence_source	top_tissue	top_tissue_label	top_snp	n_hits_support	n_unique_snp_support	n_index	n_proxy	CHR	BP	A1	A2	EAF
+KIFC2	Moderate	3.72802294082356e-07	GTEx_brain	Brain_Hypothalamus.v10.eQTLs	Hypothalamus	rs10435711	121	38	4	117	8	144483074	A	G	0.414772748947144
+ATP2B1	Moderate	6.52443110280161e-06	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs10506965	9	9	1	8	12	89775029	T	G	0.438
+GPT	Weak	0.000112434953292442	GTEx_brain	Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	rs1055167	2	2	0	2	8	144485003	A	G	0.401515156030655
+SZT2	Moderate	2.16286766476056e-06	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs1098184	59	59	2	57	1	43320680	G	A	0.361940294504166
+RBM6	Strong	1.73433505915468e-36	GTEx_brain	Brain_Cortex.v10.eQTLs	Cortex	rs11130222	221	17	13	208	3	49901060	A	T	0.582
+CCDC24	Weak	1.2930728174784e-05	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs113551349	2	1	2	0	1	44475123	C	T	0.713
+RNF123	Strong	7.06826637697004e-18	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs11709573	157	17	9	148	3	49956628	C	T	0.575
+C3orf62	Weak	0.000270395858735688	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs11709573	16	16	1	15	3	49956628	C	T	0.575
+MED8	Strong	5.33361649282766e-09	GTEx_brain	Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	rs1199036	253	50	4	249	1	43811405	G	A	0.625
+CDC20	Moderate	2.20701904234173e-07	GTEx_brain	Brain_Hippocampus.v10.eQTLs	Hippocampus	rs1209384	71	50	2	69	1	43765089	A	G	0.379
+ZNF251	Strong	2.76802122586426e-09	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs13258307	50	38	2	48	8	144682481	A	G	0.425373136997223
+ZNF34	Moderate	3.49370426499984e-06	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs13258307	48	31	3	45	8	144682481	A	G	0.425373136997223
+SNRK	Weak	0.000110647044138689	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs145682061	1	1	0	1	3	43500204	A	G	0.949
+REELD1	Strong	1.5516976135825e-35	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs1865531	970	97	10	960	4	147096093	C	T	0.653
+MEF2C-AS2	Strong	2.74198318903546e-14	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs188581	47	26	2	45	5	88175251	C	G	0.488
+MEF2C	Moderate	8.59757763238525e-07	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs188581	41	21	2	39	5	88175251	C	G	0.488
+GSCAR	Moderate	4.28117400516524e-06	GTEx_brain	Brain_Frontal_Cortex_BA9.v10.eQTLs	Frontal Cortex (BA9)	rs188581	45	21	1	44	5	88175251	C	G	0.488
+TIE1	Strong	5.33427038354826e-10	GTEx_brain	Brain_Cortex.v10.eQTLs	Cortex	rs2275180	254	51	5	249	1	43773033	A	G	0.367
+ARTN	Strong	1.47938721638804e-15	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs2367724	22	12	3	19	1	44107428	C	T	0.35
+HYAL3	Strong	6.49424538715035e-09	GTEx_brain	Brain_Nucleus_accumbens_basal_ganglia.v10.eQTLs	Nucleus accumbens	rs2883059	72	17	3	69	3	49902160	T	C	0.581
+SEMA3F	Moderate	8.57448270081717e-08	GTEx_brain	Brain_Cortex.v10.eQTLs	Cortex	rs2883059	52	17	1	51	3	49902160	T	C	0.581
+RPL8	Moderate	4.39083235187944e-07	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs28970743	58	35	2	56	8	145827869	C	T	0.515
+LRRC14	Weak	5.43419579945767e-05	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs28970743	1	1	0	1	8	145827869	C	T	0.515
+LSM6	Strong	4.27270149587968e-14	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs3756081	535	97	6	529	4	147111241	C	G	0.654
+NAA80	Moderate	1.67907255239555e-06	GTEx_brain	Brain_Anterior_cingulate_cortex_BA24.v10.eQTLs	ACC (BA24)	rs3796386	50	17	2	48	3	49899795	G	A	0.582
+AMT	Weak	0.000238302236680501	GTEx_brain	Brain_Hippocampus.v10.eQTLs	Hippocampus	rs3796386	2	2	0	2	3	49899795	G	A	0.582
+DCC	Moderate	4.20574875490815e-06	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs4245253	36	36	0	36	18	50686267	A	G	0.604
+DMAP1	Weak	2.92545423882569e-05	GTEx_brain	Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	rs4660253	6	6	0	6	1	43761651	C	T	0.375
+TMEM161B-DT	Moderate	1.29248331868103e-07	GTEx_brain	Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	rs4916723	22	6	7	15	5	87854395	A	C	0.573
+TMEM161B	Weak	0.000267320886671617	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs4916723	1	1	1	0	5	87854395	A	C	0.573
+METTL15	Weak	1.21185985153891e-05	GTEx_brain	Brain_Spinal_cord_cervical_c-1.v10.eQTLs	Spinal cord (C1)	rs4923536	76	76	0	76	11	28422496	A	G	0.539
+ARHGAP39	Weak	3.39729361030325e-05	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs4925811	12	12	1	11	8	145802447	T	G	0.531
+INKA1	Strong	1.31596787571334e-19	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs55692411	34	17	2	32	3	49911155	G	A	0.581
+ST3GAL3	Moderate	3.04223743229396e-06	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs653953	7	7	0	7	1	44083015	G	A	0.347
+LINC02918	Weak	1.06115892591755e-05	GTEx_brain	Brain_Cortex.v10.eQTLs	Cortex	rs653953	11	7	0	11	1	44083015	G	A	0.347
+FOXP1-DT	Weak	1.84102093702813e-05	GTEx_brain	Brain_Hippocampus.v10.eQTLs	Hippocampus	rs6549393	25	25	1	24	3	71539046	C	T	0.658
+ZFTRAF1	Strong	1.17588251369416e-09	GTEx_brain	Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	rs67392224	105	38	3	102	8	144481661	C	T	0.52238804101944
+COL19A1	Moderate	3.32756217788714e-06	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs6928404	21	21	1	20	6	70861994	G	T	0.53
+SLC39A4	Weak	3.85861302033312e-05	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs6989368	1	1	0	1	8	145813457	A	G	0.512
+RECQL4	Strong	7.22194277733032e-13	GTEx_brain	Brain_Frontal_Cortex_BA9.v10.eQTLs	Frontal Cortex (BA9)	rs7003836	257	38	7	250	8	144484665	G	T	0.527985036373138
+STAG3L4	Weak	6.24874603668958e-05	GTEx_brain	Brain_Anterior_cingulate_cortex_BA24.v10.eQTLs	ACC (BA24)	rs73145545	4	4	0	4	7	67667402	G	A	0.902
+GMPPB	Strong	2.09836665940489e-11	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs7613360	171	17	11	160	3	49916710	C	T	0.614
+CAMKV	Weak	1.12598088999218e-05	GTEx_brain	Brain_Cortex.v10.eQTLs	Cortex	rs7613360	17	17	1	16	3	49916710	C	T	0.614
+GPX1	Weak	1.29433943987979e-05	GTEx_brain	Brain_Frontal_Cortex_BA9.v10.eQTLs	Frontal Cortex (BA9)	rs7613360	59	17	4	55	3	49916710	C	T	0.614
+RASSF1	Weak	3.14046698872705e-05	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs7613360	17	17	1	16	3	49916710	C	T	0.614
+ELOVL1	Moderate	1.16875798891271e-06	GTEx_brain	Brain_Hippocampus.v10.eQTLs	Hippocampus	rs839755	53	51	2	51	1	43856410	A	C	0.624
+C8orf82	Moderate	2.68918752350459e-06	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs9071	17	8	0	17	8	144525122	A	G	0.490671634674072
+MST1R	Strong	7.58191160694581e-10	GTEx_brain	Brain_Cerebellum.v10.eQTLs	Cerebellum	rs952594	146	17	7	139	3	49908023	G	A	0.581
+C3orf86P	Weak	1.50067913645094e-05	GTEx_brain	Brain_Hypothalamus.v10.eQTLs	Hypothalamus	rs9877066	1	1	1	0	3	43691501	G	A	0.951

@@ -1,0 +1,27 @@
+Tissue	Tissue_label	SNP_type	n_unique_SNP
+Brain_Anterior_cingulate_cortex_BA24.v10.eQTLs	ACC (BA24)	PROXY	153
+Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	PROXY	217
+Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	PROXY	266
+Brain_Cerebellum.v10.eQTLs	Cerebellum	PROXY	247
+Brain_Cortex.v10.eQTLs	Cortex	PROXY	209
+Brain_Frontal_Cortex_BA9.v10.eQTLs	Frontal Cortex (BA9)	PROXY	221
+Brain_Hippocampus.v10.eQTLs	Hippocampus	PROXY	193
+Brain_Hypothalamus.v10.eQTLs	Hypothalamus	PROXY	264
+Brain_Nucleus_accumbens_basal_ganglia.v10.eQTLs	Nucleus accumbens	PROXY	174
+Brain_Putamen_basal_ganglia.v10.eQTLs	Putamen	PROXY	199
+Brain_Spinal_cord_cervical_c-1.v10.eQTLs	Spinal cord (C1)	PROXY	239
+Brain_Amygdala.v10.eQTLs	Amygdala	PROXY	53
+Brain_Substantia_nigra.v10.eQTLs	Substantia nigra	PROXY	17
+Brain_Cerebellar_Hemisphere.v10.eQTLs	Cerebellar Hemisphere	LEAD	7
+Brain_Cerebellum.v10.eQTLs	Cerebellum	LEAD	10
+Brain_Caudate_basal_ganglia.v10.eQTLs	Caudate	LEAD	5
+Brain_Cortex.v10.eQTLs	Cortex	LEAD	5
+Brain_Frontal_Cortex_BA9.v10.eQTLs	Frontal Cortex (BA9)	LEAD	5
+Brain_Hippocampus.v10.eQTLs	Hippocampus	LEAD	5
+Brain_Putamen_basal_ganglia.v10.eQTLs	Putamen	LEAD	5
+Brain_Spinal_cord_cervical_c-1.v10.eQTLs	Spinal cord (C1)	LEAD	4
+Brain_Nucleus_accumbens_basal_ganglia.v10.eQTLs	Nucleus accumbens	LEAD	5
+Brain_Amygdala.v10.eQTLs	Amygdala	LEAD	3
+Brain_Anterior_cingulate_cortex_BA24.v10.eQTLs	ACC (BA24)	LEAD	4
+Brain_Hypothalamus.v10.eQTLs	Hypothalamus	LEAD	7
+Brain_Substantia_nigra.v10.eQTLs	Substantia nigra	LEAD	2

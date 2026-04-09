@@ -1,0 +1,9 @@
+Gene	Gene_Evidence_Level	Gene_Evidence_Reason	GTEx_Evidence_Level	GTEx_Best_Tissue	GTEx_Best_SNP	GTEx_Best_P	Coloc_Evidence_Level	PP_H4	Coloc_Best_Tissue	Coloc_Lead_SNP	P_SMR	P_HEIDI	SMR_support	SMR_Top_SNP
+ARTN	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Cerebellar Hemisphere	rs2367724	1.47938721638804e-15	Strong	0.974	Putamen	rs1198982			FALSE	
+GMPPB	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Cerebellum	rs7613360	2.09836665940489e-11	Strong	0.913	ACC (BA24)	rs7613360	4.73e-06		FALSE	rs7613360
+HYAL3	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Nucleus accumbens	rs2883059	6.49424538715035e-09	Strong	0.995	Substantia nigra	rs7613360	3.85e-05		FALSE	rs55692411
+LSM6	HighConfidence	GTEx_strong+SMR_support	Strong	Cerebellar Hemisphere	rs3756081	4.27270149587968e-14					5.78e-08	8.17e-01	TRUE	rs6537401
+MED8	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Caudate	rs1199036	5.33361649282766e-09	Strong	0.903	Caudate	rs1198982	1.29e-06	2.60e-03	FALSE	rs11172
+MST1R	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Cerebellum	rs952594	7.58191160694581e-10	Strong	0.916	Frontal Cortex (BA9)	rs7613360	4.16e-04		FALSE	rs868891
+REELD1	HighConfidence	GTEx_strong+SMR_support	Strong	Cerebellar Hemisphere	rs1865531	1.5516976135825e-35					3.02e-07	6.50e-01	TRUE	rs3756081
+TIE1	HighConfidence	GTEx_strong+coloc_STRONG	Strong	Cortex	rs2275180	5.33427038354826e-10	Strong	0.945	Caudate	rs1198982	3.04e-06	2.29e-03	FALSE	rs3120124
