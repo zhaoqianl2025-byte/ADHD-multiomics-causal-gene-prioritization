@@ -1,9 +1,10 @@
-# Integrative multi-omics analysis identifies putative causal genes underlying ADHD risk
+# Multi-omics integration prioritizes candidate genes and brain region-specific regulatory mechanisms associated with ADHD
 
 ## Overview
-This repository provides a reproducible multi-omics analysis pipeline integrating GWAS, brain eQTL, Bayesian colocalization, and SMR analyses to prioritize putative causal genes associated with attention-deficit/hyperactivity disorder (ADHD).
 
-This framework systematically integrates genetic association signals with transcriptomic regulatory evidence to refine GWAS loci into biologically interpretable candidate genes.
+This repository provides a reproducible evidence-based post-GWAS multi-omics analysis pipeline integrating GWAS, brain eQTL, Bayesian colocalization, and SMR analyses to prioritize candidate genes and characterize brain region-specific regulatory mechanisms associated with attention-deficit/hyperactivity disorder (ADHD).
+
+This framework systematically integrates genetic association signals with transcriptomic regulatory evidence to refine GWAS loci into biologically interpretable candidate genes and regulatory variants supported by convergent evidence from complementary post-GWAS analyses.
 
 ---
 
